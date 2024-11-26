@@ -1,0 +1,9 @@
+langchain
+google-generativeai 
+
+langchain-community
+wikipedia
+python-dotenv
+openai
+streamlit 
+gTTs
